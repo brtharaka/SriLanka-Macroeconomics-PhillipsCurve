@@ -55,5 +55,5 @@ Policymakers should not rely on a simple inflation–unemployment trade-off but 
 ## 🚀 How to Run the R Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SriLanka-Macroeconomics-PhillipsCurve.git
+   git clone https://github.com/brtharaka/SriLanka-Macroeconomics-PhillipsCurve.git
    cd SriLanka-Macroeconomics-PhillipsCurve
